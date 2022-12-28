@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=roadmapda
+POSTGRES_USER=BdbUYKrkChEzMhlOoUveOgRuAISSTHqW
+POSTGRES_PASSWORD=HabBkBzR3Sh5eVhkqBoVQSAPQgKzb0s3q6tbtDd7KsHwutkxE34pHCngpVy6eJZX
